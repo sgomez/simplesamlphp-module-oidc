@@ -1,3 +1,7 @@
+# Project archived
+
+This project was moved to [https://github.com/rediris-es/simplesamlphp-module-oidc](https://github.com/rediris-es/simplesamlphp-module-oidc).
+
 # simplesamlphp-module-oidc
 > A SimpleSAMLphp module adding support for the OpenID Connect protocol.
 
